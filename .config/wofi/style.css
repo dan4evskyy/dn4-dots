@@ -12,8 +12,8 @@ window {
 }
 
 #input {
-  background-color: #242525;
-  color: #8E8A71;
+  background-color: #282828;
+  color: #ebdbb2;
   outline: none;
   box-shadow: none;
   border: 0;
@@ -36,7 +36,7 @@ window {
 }
 
 #entry:selected {
-  background-color: #655253;
+  background-color: #ebdbb2;
   outline: none;
 }
 

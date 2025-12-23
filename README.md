@@ -19,6 +19,4 @@ keybinds; (mainMod win)
   tab, exec, rofi -show window
   H, exec, hyprpicker
 
-nvim config - https://github.com/Andrey0189
-wofi (base) - https://github.com/Aptivace
 

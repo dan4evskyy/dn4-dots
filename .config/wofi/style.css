@@ -1,0 +1,46 @@
+window {
+  background-color: #282828;
+}
+
+* {
+  font-family: "Jetbrains Mono";
+  color: #fff;
+}
+
+#scroll {
+  padding: 0.5rem;
+}
+
+#input {
+  background-color: #242525;
+  color: #8E8A71;
+  outline: none;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+#inner-box {
+  margin: 0.5rem;
+  font-size: 1rem;
+}
+
+#img {
+  margin: 10px 10px;
+}
+
+#entry {
+  border-radius: 0.5rem;
+}
+
+#entry:selected {
+  background-color: #655253;
+  outline: none;
+}
+
+#text:selected {
+  color: #1a1b26;
+}
+
